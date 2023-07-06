@@ -1,6 +1,6 @@
 
 <div align="center">
-  <p  align="center"> 😊 Please visit my Portfolio repository 😊 </p>
+  <p  align="center"> 😊 Please visit my Portfolio repository and tistory blog 😊 </p>
   <div  align="center">
   
   ![header](https://capsule-render.vercel.app/api?type=Waving&text=JungHwa-Kim&color=timeGradient) 
