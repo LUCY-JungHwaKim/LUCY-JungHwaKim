@@ -1,10 +1,16 @@
-<div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=Waving&text=JungHwa-Kim&color=timeGradient) 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLUCY-JungHwaKim&count_bg=%233B57BEC8&title_bg=%233FD170C8&icon=iconify.svg&icon_color=%23090808&title=Today%27s&edge_flat=false)](https://hits.seeyoufarm.com)
-<p style="font-size:18px;">✨Editors✨</p>
-<div>
+<div align="center">
+  <p  align="center"> 😊 Please visit my Portfolio repository 😊 </p>
+  <div  align="center">
+  
+  ![header](https://capsule-render.vercel.app/api?type=Waving&text=JungHwa-Kim&color=timeGradient) 
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLUCY-JungHwaKim&count_bg=%233B57BEC8&title_bg=%233FD170C8&icon=iconify.svg&icon_color=%23090808&title=Today%27s&edge_flat=false)](https://hits.seeyoufarm.com)
+    
+  </div>
+
+<p  align="center">✨Editors✨</p>
+<div  align="center">
   
   ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
@@ -13,7 +19,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
   	![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 </div>
-<p style="font-size:18px;">✨Skills✨</p>
+<p  align="center">✨Skills✨</p>
 <div>
   
     
@@ -26,8 +32,8 @@
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 </div>
-<p style="font-size:18px;">✨OS✨</p>
-<div>
+<p  align="center">✨OS✨</p>
+<div  align="center">
 
 
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -35,7 +41,7 @@
   	![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 </div>
 
-<div>
+<div  align="center">
 
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LUCY-JungHwaKim&layout=compact)
