@@ -1,8 +1,8 @@
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&text=JungHwa-Kim&color=timeGradient) 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%234882C8&title_bg=%2388DBC1&icon=iconify.svg&icon_color=%23000000&title=Today%27s&edge_flat=false)](https://hits.seeyoufarm.com)       
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FLUCY-JungHwaKim&count_bg=%233B57BEC8&title_bg=%233FD170C8&icon=iconify.svg&icon_color=%23090808&title=Today%27s&edge_flat=false)](https://hits.seeyoufarm.com)
 <p style="font-size:18px;">✨Editors✨</p>
 <div>
   
